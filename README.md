@@ -56,8 +56,7 @@ Make sure you have Python 3.6 or higher installed on your system.
 Notebook-xlsx/
 ├── notebook_xlsx.py      # Main application script
 ├── requirements.txt      # Required dependencies
-├── README.md             # Project documentation
-└── data/                 # Folder to store generated .xlsx files
+└── README.md             # Project documentation
 ```
 
 ## How It Works
