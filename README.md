@@ -81,6 +81,3 @@ This project is licensed under the MIT License.
 - Inspired by the need for lightweight, software-independent note management.
 
 ---
-
-Happy note-taking with **Notebook-xlsx**! 🎉
-
