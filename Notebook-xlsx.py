@@ -25,7 +25,7 @@ class App(ctk.CTk):
         _date = _datetime.strftime("%d/%m/%Y")
         # _time = ("%H:%M:%S %p")
 
-        dat1 = os.path.join(os.environ["USERPROFILE"], "Documents/Notebook-xlsx/Notebook_data.xlsx")
+        dat1 = os.path.join(os.environ["USERPROFILE"], "Documents/Notebook-xlsx/notebook_data.xlsx")
         dir1 = os.path.join(os.environ["USERPROFILE"], "Documents/Notebook-xlsx")
 
         check_dat1 = os.path.isfile(dat1)
