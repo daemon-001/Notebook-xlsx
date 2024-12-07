@@ -12,8 +12,10 @@
 
 This project is built with Python and relies on the following libraries:
 
+- `customtkinter`: For creating user friendly gui.
 - `openpyxl`: For creating and modifying Excel files.
-- `pandas`: For data handling and manipulation.
+- `datetime`: To reading current data and time. 
+- `os`: For running some cmd commands.
 
 Make sure you have Python 3.6 or higher installed on your system.
 
@@ -21,7 +23,7 @@ Make sure you have Python 3.6 or higher installed on your system.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Notebook-xlsx.git
+   git clone https://github.com/daemon-001/Notebook-xlsx.git
    ```
 
 2. Navigate to the project directory:
@@ -44,9 +46,9 @@ Make sure you have Python 3.6 or higher installed on your system.
 2. Follow the on-screen instructions to:
    - Add a new note.
    - View existing notes.
-   - Edit or delete notes.
+   - Edit or delete notes (comming soon).
 
-3. The notes will be stored in an automatically generated `.xlsx` file in the project directory.
+3. The notes will be stored in an automatically generated `notebook_data.xlsx` file in the `C:\Users\username\Documents\Notebook-xlsx\`.
 
 ## File Structure
 
