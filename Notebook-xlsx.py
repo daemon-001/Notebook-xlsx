@@ -29,7 +29,6 @@ class App(ctk.CTk):
         dir1 = os.path.join(os.environ["USERPROFILE"], "Documents/Notebook-xlsx")
 
         check_dat1 = os.path.isfile(dat1)
-        
         check_dir1 = os.path.isdir(dir1)
 
         idea_value = ctk.StringVar()
