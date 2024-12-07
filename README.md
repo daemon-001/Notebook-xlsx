@@ -54,9 +54,14 @@ Make sure you have Python 3.6 or higher installed on your system.
 
 ```plaintext
 Notebook-xlsx/
+├── __pycache__/          # Cache folder
+├── customtkinter/        # Python module
+├── openpyxl/             # Python module
+├── README.md             # Project documentation
+├── datetime.py           # Python module
 ├── notebook_xlsx.py      # Main application script
-├── requirements.txt      # Required dependencies
-└── README.md             # Project documentation
+├── os.py                 # Python module
+└── requirements.txt      # Required dependencies
 ```
 
 ## How It Works
@@ -65,28 +70,10 @@ Notebook-xlsx/
 - Notes are stored in rows, with each note associated with a date column.
 - You can perform standard operations like adding, viewing, updating, and deleting notes, all without relying on external spreadsheet software.
 
-## Contributing
-
-Contributions are welcome! If you have ideas for new features or improvements, feel free to:
-
-1. Fork this repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
