@@ -38,7 +38,7 @@ Make sure you have Python 3.6 or higher installed on your system.
 
 ## Usage
 
-1. Run the application:
+1. Run the program:
    ```bash
    python notebook_xlsx.py
    ```
