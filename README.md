@@ -70,6 +70,11 @@ Notebook-xlsx/
 - Notes are stored in rows, with each note associated with a date column.
 - You can perform standard operations like adding, viewing, updating, and deleting notes, all without relying on external spreadsheet software.
 
+## Snapshots
+![Notebook-xlsx 09-03-2025 12_15_33 AM](https://github.com/user-attachments/assets/1a2763a7-69fb-4310-be65-ee81e9ed5ddd)
+![Notebook-xlsx 09-03-2025 12_15_56 AM](https://github.com/user-attachments/assets/abfe5581-a295-401f-bd59-8c67afa2eebf)
+![Screenshot 2025-03-09 001718](https://github.com/user-attachments/assets/ca8d501e-b61d-43c5-9fad-6324b3fef04b)
+
 
 ## License
 
