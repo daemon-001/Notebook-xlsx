@@ -61,6 +61,7 @@ Notebook-xlsx/
 ├── README.md             # Project documentation
 ├── Notebook-xlsx.py      # Main application script
 ├── Notebook-xlsx.exe     # Executable file for direct run
+├── icon.ico              # Application Icon
 └── requirements.txt      # Required dependencies
 ```
 
