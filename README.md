@@ -79,10 +79,4 @@ Notebook-xlsx/
 ## License
 
 This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- Built with Python and open-source libraries.
-- Inspired by the need for lightweight, software-independent note management.
-
 ---
