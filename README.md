@@ -14,7 +14,8 @@ This project is built with Python and relies on the following libraries:
 
 - `customtkinter`: For creating user friendly gui.
 - `openpyxl`: For creating and modifying Excel files.
-- `datetime`: To reading current data and time. 
+- `datetime`: To reading current data and time.
+- `sys`: To run system-specific parameters and functions. 
 - `os`: For running some cmd commands.
 
 Make sure you have Python 3.6 or higher installed on your system.
@@ -42,7 +43,7 @@ You can directly download the latest executable file (Notebook.xlsx.exe) from [R
 
 1. Run the program:
    ```bash
-   python notebook_xlsx.py
+   python Notebook-xlsx.py
    ```
 
 2. Follow the on-screen instructions to:
@@ -56,13 +57,10 @@ You can directly download the latest executable file (Notebook.xlsx.exe) from [R
 
 ```plaintext
 Notebook-xlsx/
-├── __pycache__/          # Cache folder
-├── customtkinter/        # Python module
-├── openpyxl/             # Python module
+│
 ├── README.md             # Project documentation
-├── datetime.py           # Python module
-├── notebook_xlsx.py      # Main application script
-├── os.py                 # Python module
+├── Notebook-xlsx.py      # Main application script
+├── Notebook-xlsx.exe     # Executable file for direct run
 └── requirements.txt      # Required dependencies
 ```
 
