@@ -21,6 +21,8 @@ Make sure you have Python 3.6 or higher installed on your system.
 
 ## Installation
 
+You can directly download the latest executable file (Notebook.xlsx.exe) from [Releases](https://github.com/daemon-001/Notebook-xlsx/releases/)
+
 1. Clone this repository:
    ```bash
    git clone https://github.com/daemon-001/Notebook-xlsx.git
